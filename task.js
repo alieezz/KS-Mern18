@@ -26,6 +26,6 @@ let index = fruit3.indexOf("Apple", -1);
 console.log(index)
 
 //Array includes methods returns back a boolean value that if the checked entry exist in an array or not
-const fruit5 = ["Banana", "Orange", "Apple", "Mango"];
+const fruit5 = ["Banana", "Orange", "Apple", "Mango","Orange"];
 let inc = fruit5.includes("Banana");
 console.log(inc)
